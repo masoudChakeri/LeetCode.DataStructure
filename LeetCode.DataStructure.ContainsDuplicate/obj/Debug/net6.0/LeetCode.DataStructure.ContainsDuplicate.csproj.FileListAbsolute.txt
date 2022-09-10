@@ -1,0 +1,15 @@
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/bin/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/bin/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.deps.json
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/bin/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.runtimeconfig.json
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/bin/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.dll
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/bin/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.pdb
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/obj/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.csproj.AssemblyReference.cache
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/obj/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/obj/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.AssemblyInfoInputs.cache
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/obj/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.AssemblyInfo.cs
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/obj/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.csproj.CoreCompileInputs.cache
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/obj/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.dll
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/obj/Debug/net6.0/refint/LeetCode.DataStructure.ContainsDuplicate.dll
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/obj/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.pdb
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/obj/Debug/net6.0/LeetCode.DataStructure.ContainsDuplicate.genruntimeconfig.cache
+/home/masoud/Documents/Projects/LeetCode/LeetCode.DataStructure/LeetCode.DataStructure.ContainsDuplicate/obj/Debug/net6.0/ref/LeetCode.DataStructure.ContainsDuplicate.dll
